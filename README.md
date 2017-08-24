@@ -13,4 +13,5 @@ Pin numbers and their respective pins in the image below.
 
  Ultrasonic Distance Sensor HC-SR04
 ----
-(add info here)
+Pins used in these scripts updated to the picture in blue.
+![UltrasonicSensor](https://github.com/JinnNova/PImoduletests/blob/master/images/Ultrasonic-Module-Circuit.png "Ultrasonic Distance Sensor")
